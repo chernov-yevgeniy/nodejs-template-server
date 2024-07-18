@@ -1,0 +1,7 @@
+.git
+.gitignore
+.gitlab-ci.yml
+.env.example
+Dockerfile
+README.md
+.env
